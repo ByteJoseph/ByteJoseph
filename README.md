@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # My Open Source Contributions
-<a href="#" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Acode - code editor | FOSS"  src="https://play-lh.googleusercontent.com/1Ub52VveZloRAM8bbZvi_p1fOweSUcbsXaIBqEuzUG5Sg2lF92xH1X5a-VyF93Kiw1A=w240-h480-rw"></a>
+<a href="#" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Acode - code editor | FOSS"  src="https://acode.app/logo.svg"></a>
