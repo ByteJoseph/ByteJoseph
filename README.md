@@ -1,5 +1,5 @@
 # Hi there 👋
-
+<a href="https://app.daily.dev/bytejoseph"><img src="https://api.daily.dev/devcards/v2/KJnuDOQW0nw0YGla4R6Ra.png?type=wide&r=ec2" width="652" alt="Joseph's Dev Card"/></a>
 <!--
 **ByteJoseph/ByteJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
