@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/makersofkerala/thengascript" target="_blank"><img style="border-radius: 100px;" width="85" height="50" alt="Thengascript"  src=".github/tgs.png"></a>
 <a href="https://github.com/ByteJoseph/osintgit" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Osintgit"  src="https://raw.githubusercontent.com/ByteJoseph/osintgit/main/assets/icon.png"></a>
 
-<a href="https://app.daily.dev/bytejoseph"><img src="https://api.daily.dev/devcards/v2/KJnuDOQW0nw0YGla4R6Ra.png?type=wide&r=ec2" width="652" alt="Joseph's Dev Card"/></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByteJoseph&theme=2077)
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ByteJoseph&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
