@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## My Open Source Contributions
 <a href="https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Acode - code editor | FOSS"  src="https://acode.app/logo.svg"></a>
-<a href="https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Telegram X"  src="https://appstotalk.com/uploads/posts/2019-02/1550581030_telegram.png"></a>
+<a href="https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Telegram X"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/1024px-Telegram_X_2019_Logo.svg.png?20220403112442"></a>
 <a href="https://github.com/kivy/python-for-android" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Python For Android"  src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png"></a>
 <a href="https://github.com/makersofkerala/thengascript" target="_blank"><img style="border-radius: 100px;" width="85" height="50" alt="Thengascript"  src=".github/tgs.png"></a>
 <a href="https://github.com/ByteJoseph/osintgit" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Osintgit"  src="https://raw.githubusercontent.com/ByteJoseph/osintgit/main/assets/icon.png"></a>
