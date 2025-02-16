@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-⚡ Studying Ai & Data science @uce muttom
 
+⚡ Studying Ai & Data science @uce muttom
+-->
 ## My Open Source Contributions
 <a href="https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Acode - code editor | FOSS"  src="https://acode.app/logo.svg"></a>
 <a href="https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Telegram X"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/1024px-Telegram_X_2019_Logo.svg.png?20220403112442"></a>
