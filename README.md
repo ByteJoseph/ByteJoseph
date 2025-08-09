@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ⚡ Studying Ai & Data science @uce muttom
 -->
-## Contributed to
+
+## My Contributions Include
+I enjoy contributing back to the tools I use or find interesting.
 <!--
 <a href="https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Acode - code editor | FOSS"  src="https://acode.app/logo.svg"></a>
 -->
