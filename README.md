@@ -1,4 +1,5 @@
 # Hi there 👋 I am Joseph Joseph
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteJoseph&layout=donut&hide=html,lua)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ByteJoseph/ByteJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
