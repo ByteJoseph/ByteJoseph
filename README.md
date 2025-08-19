@@ -1,6 +1,6 @@
 # Hi there 👋 I am Joseph
  
-#### Fun Fact: At 18, I contributed to Microsoft’s official TypeScript docs website by writing about Bun.js on its front page
+#### Fun Fact: At 18, I contributed to Microsoft’s official TypeScript documentation by adding Bun.js to its front page
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteJoseph&layout=donut&hide=html,lua)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ByteJoseph/ByteJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ⚡ Studying Ai & Data science @uce muttom
 -->
 ## My Contributions Include
-I enjoy contributing back to the tools I use or find interesting.
 
 <a href="https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Acode - code editor | FOSS"  src="https://acode.app/logo.svg"></a>
 <a href="https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en_US" target="_blank"><img style="border-radius: 100px;" width="50" height="50" alt="Telegram X"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/1024px-Telegram_X_2019_Logo.svg.png?20220403112442"></a>
