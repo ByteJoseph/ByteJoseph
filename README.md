@@ -1,4 +1,5 @@
 # Hi there 👋 I am Joseph Joseph
+#### Fun Fact: I’m the guy who wrote about Bun.js on the front page of Microsoft’s official TypeScript website.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteJoseph&layout=donut&hide=html,lua)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ByteJoseph/ByteJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 
 ⚡ Studying Ai & Data science @uce muttom
 -->
-
 ## My Contributions Include
 I enjoy contributing back to the tools I use or find interesting.
 
@@ -35,5 +35,3 @@ I enjoy contributing back to the tools I use or find interesting.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 -->
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ByteJoseph&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-⚡ Fun fact: Learning Godot 
