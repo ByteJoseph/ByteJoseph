@@ -1,5 +1,6 @@
-# Hi there 👋 I am Joseph Joseph
-#### Fun Fact: I’m the guy who wrote a sentence about Bun.js on the front page of Microsoft’s official TypeScript docs, when I was just 18
+# Hi there 👋 I am Joseph
+ 
+#### Fun Fact: At 18, I contributed to Microsoft’s official TypeScript docs website by writing about Bun.js on its front page
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteJoseph&layout=donut&hide=html,lua)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ByteJoseph/ByteJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
