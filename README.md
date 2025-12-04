@@ -1,7 +1,8 @@
 # Hi there 👋 I am Joseph
  
 #### Fun Fact: At 18, I contributed to Microsoft’s official [TypeScript documentation](https://www.typescriptlang.org) by adding Bun.js to its front page
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteJoseph&layout=donut&hide=html,lua)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteJoseph&layout=donut&hide=html,lua)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **ByteJoseph/ByteJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
