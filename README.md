@@ -42,13 +42,12 @@ Here are some ideas to get you started:
 I’m a 20 year old self taught developer, started programming at the age of 14
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## My Best projects
-Transfer files from a PC to a mobile phone without internet using only a camera
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteJoseph&repo=wormhole)](https://github.com/ByteJoseph/wormhole)
-
-Solves Google’s noexec restriction on Android using a clever workaround
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteJoseph&repo=noexec)](https://github.com/ByteJoseph/noexec)
+
+- **wormhole** : Transfer files from a PC to a mobile phone without internet using only a camera
+
+- **noexec**   : Solves Google’s noexec restriction on Android using a clever workaround
 ## Most loved non-profit product
 ( 100+ happy users contacted me )
 
