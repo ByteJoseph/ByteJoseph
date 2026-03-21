@@ -38,8 +38,9 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ByteJoseph&show_icons=true&theme=dark&bg-color=00000000&hide_border=false&title_color=ffffff&text_color=3bcf05&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
 </h3> 
 -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+I’m a 20 year old self-taught developer, started programming at the age of 14
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## My Best projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteJoseph&repo=wormhole)](https://github.com/ByteJoseph/wormhole)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteJoseph&repo=noexec)](https://github.com/ByteJoseph/noexec)
