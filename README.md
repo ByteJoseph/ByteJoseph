@@ -47,7 +47,7 @@ I’m a 20 year old self taught developer, started programming at the age of 14
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteJoseph&repo=wormhole)](https://github.com/ByteJoseph/wormhole)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteJoseph&repo=noexec)](https://github.com/ByteJoseph/noexec)
 
-- **wormhole** : A cross platform file transfer tool using camera and LAN encoding to bypass internet requirements
+- **wormhole** : A cross platform file transfer tool using camera and LAN encoding, without internet
 
 - **noexec**   : A utility for Termux to bypass Android’s noexec restriction on shared storage, enabling binary execution without root
 ## Most loved non-profit product
