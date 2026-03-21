@@ -49,7 +49,7 @@ I’m a 20 year old self taught developer, started programming at the age of 14
 
 - **noexec**   : A utility for Termux to bypass Android’s noexec restriction on shared storage, enabling binary execution without root
 ## Most loved non-profit product
-( 100+ happy users contacted me )
+( 100+ happy users contacted me ) ([Live Demo](https://digital101.streamlit.app/))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteJoseph&repo=digital101)](https://github.com/ByteJoseph/digital101)
 ## Open source contributions
