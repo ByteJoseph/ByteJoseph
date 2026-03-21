@@ -54,6 +54,8 @@ I’m a 20 year old self taught developer, started programming at the age of 14
 28-Aug-2025 : Fixed buffer overflows in XenevaOS [#24](https://github.com/manaskamal/XenevaOS/pull/24)
 
 3-Nov-2024 : Included bun in official typescript docs website [#3267](https://github.com/microsoft/TypeScript-Website/pull/3267)
+
+26-May-2024 : Contributed command to Telegram X to check SHA-256 of apk in windows [#624](https://github.com/TGX-Android/Telegram-X/pull/624)
 ## Most loved non-profit product
 ( 100+ happy users contacted me ) ([Live Demo](https://digital101.streamlit.app/))
 
